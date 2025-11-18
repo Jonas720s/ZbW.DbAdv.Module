@@ -14,7 +14,7 @@
 
     public DateTime ReleaseDate { get; set; }
 
-    public ICollection<VideoGenre>? VideoGenres { get; set; }
+    public VideoGenre? VideoGenres { get; set; }
 
   }
 }

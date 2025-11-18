@@ -7,6 +7,7 @@
         public string? City { get; set; }
         public string? Phone { get; set; }
         public string? Mail { get; set; }
+        public string? Sex { get; set; }
         public string? MobilePhone { get; set; }
 #nullable disable
         public ICollection<Course> Courses { get; set; }
