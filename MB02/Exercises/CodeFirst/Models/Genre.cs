@@ -10,6 +10,6 @@
     [MaxLength(255)]
     public required string Name { get; set; }
     
-    public ICollection<VideoGenre>? VideoGenres { get; set; }
+    public ICollection<Video>? Videos { get; set; }
   }
 }
