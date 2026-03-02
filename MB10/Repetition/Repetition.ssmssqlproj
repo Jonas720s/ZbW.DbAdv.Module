@@ -1,22 +1,16 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Samples">
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Repetition">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items />
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="BiTemporal-Salaries-Demo.sql">
+        <FileNode Name="DataWarehouse-WiederholungsfragenLoesungen.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>BiTemporal-Salaries-Demo.sql</FullPath>
-        </FileNode>
-        <FileNode Name="Temporal-Demo-Sql-Server.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>Temporal-Demo-Sql-Server.sql</FullPath>
+          <FullPath>DataWarehouse-WiederholungsfragenLoesungen.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

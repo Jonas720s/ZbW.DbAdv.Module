@@ -6,17 +6,23 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="BiTemporal-Salaries-Demo.sql">
+        <FileNode Name="Sample-GROUPING SET-CUBE-ROLLUP.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>BiTemporal-Salaries-Demo.sql</FullPath>
+          <FullPath>Sample-GROUPING SET-CUBE-ROLLUP.sql</FullPath>
         </FileNode>
-        <FileNode Name="Temporal-Demo-Sql-Server.sql">
+        <FileNode Name="Sample-OLAP-Operators-AdeventureWorks.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>Temporal-Demo-Sql-Server.sql</FullPath>
+          <FullPath>Sample-OLAP-Operators-AdeventureWorks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT-differences-OLTP-OLAP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SELECT-differences-OLTP-OLAP.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
